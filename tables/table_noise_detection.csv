@@ -1,0 +1,6 @@
+dataset,comparison,n,pos,AUROC,AP,base
+pw,relabelled vs kept,6647,349,0.8329,0.2986,0.0525
+pw,removed vs kept,10236,3938,0.6542,0.5549,0.3847
+pw,relabelled|removed vs kept,10585,4287,0.6687,0.5938,0.405
+pw,label_conflict vs rest,18542,1130,0.7567,0.1954,0.0609
+pd,label_conflict vs rest,2576,94,0.7691,0.1101,0.0365

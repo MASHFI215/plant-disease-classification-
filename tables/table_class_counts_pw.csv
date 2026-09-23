@@ -1,0 +1,90 @@
+class_name,off_train,off_test,cl_train,cl_test
+celery anthracnose,36,8,35,8
+celery early blight,44,11,36,9
+broccoli downy mildew,52,13,45,13
+tobacco leaf,57,14,54,14
+carrot cavity spot,60,14,59,14
+plum pocket disease,61,15,59,15
+strawberry leaf scorch,61,15,58,14
+basil downy mildew,69,17,63,17
+ginger leaf spot,70,17,57,14
+ginger sheath blight,70,17,47,14
+eggplant cercospora leaf spot,71,17,55,14
+tobacco mosaic virus,73,18,59,16
+cauliflower alternaria leaf spot,79,19,48,12
+strawberry anthracnose,79,19,79,19
+lettuce mosaic virus,80,20,70,19
+grape leaf spot,85,21,61,19
+bean halo blight,92,23,82,19
+cherry powdery mildew,92,22,80,18
+blueberry rust,94,23,79,22
+bell pepper leaf spot,94,23,84,22
+lettuce downy mildew,95,23,83,20
+bean mosaic virus,100,25,86,24
+cabbage alternaria leaf spot,103,25,65,20
+coffee leaf,111,27,105,27
+grapevine leafroll disease,111,27,107,27
+maple tar spot,112,27,101,27
+cucumber bacterial wilt,115,28,109,27
+garlic leaf blight,118,29,98,24
+rice blast,119,29,108,29
+corn leaf,125,31,121,31
+peach leaf,126,31,116,31
+garlic rust,128,32,100,30
+bean rust,132,33,113,32
+tomato yellow leaf curl virus,137,34,119,30
+apple black rot,139,34,125,31
+ginger leaf,142,35,139,34
+raspberry leaf,144,36,134,36
+apple mosaic virus,145,36,132,34
+zucchini yellow mosaic virus,145,36,127,34
+tomato mosaic virus,152,37,119,33
+coffee leaf rust,152,38,128,36
+cauliflower leaf,156,39,146,39
+strawberry leaf,160,39,154,38
+grape leaf,161,40,150,40
+celery leaf,170,42,152,41
+banana panama disease,173,43,147,42
+corn gray leaf spot,173,43,148,37
+tomato septoria leaf spot,176,44,133,33
+corn northern leaf blight,180,44,138,33
+tomato leaf,181,45,169,42
+potato early blight,182,45,126,37
+garlic leaf,183,45,168,44
+grape black rot,184,45,164,43
+cherry leaf spot,184,46,169,45
+peach leaf curl,188,47,181,47
+cucumber powdery mildew,189,47,136,38
+citrus greening disease,190,47,185,45
+corn rust,190,47,175,47
+potato late blight,192,48,154,44
+tomato leaf mold,192,47,151,42
+eggplant leaf,192,48,188,48
+bell pepper leaf,192,48,181,45
+soybean leaf,194,48,182,45
+banana leaf,195,48,189,48
+lettuce leaf,196,48,188,48
+potato leaf,200,49,196,48
+rice sheath blight,200,50,152,39
+cucumber angular leaf spot,201,50,171,48
+rice leaf,202,50,189,50
+bean leaf,207,51,192,45
+broccoli leaf,216,53,204,52
+tomato bacterial leaf spot,224,56,177,49
+blueberry leaf,225,56,214,56
+squash powdery mildew,225,56,193,50
+cherry leaf,229,57,218,54
+apple scab,234,58,213,54
+corn smut,235,58,217,58
+tomato late blight,236,59,203,48
+apple rust,247,61,223,56
+maple leaf,253,63,231,62
+plum leaf,260,65,249,63
+tomato early blight,277,69,198,55
+cucumber leaf,279,69,273,66
+grape downy mildew,316,79,267,73
+squash leaf,328,82,315,82
+apple leaf,356,88,329,87
+cabbage leaf,372,92,350,88
+citrus canker,428,107,337,100
+basil leaf,472,117,425,115

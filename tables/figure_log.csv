@@ -1,0 +1,16 @@
+file,step,caption
+fig5_1_teacher_probes,5,Linear-probe foundation teachers: test macro-F1 by feature set and protocol (P3: mean ± SD over 5 folds).
+fig5_2_leakage_inflation,5,Accuracy on official-test images with vs without a near-duplicate twin in train (label-conflict images excluded).
+fig5_3_noise_roc,5,ROC of OOF foundation-teacher label-quality scores against expert v1→v2 decisions and our conflict flag.
+fig5_4_conf_by_expert,5,"Distribution of teacher confidence in the given v1 label, grouped by the experts' v2 decision."
+fig5_5_pd_teacher_confusion,5,Row-normalised confusion matrix of the DINOv2+CLIP teacher on the PlantDoc clean test set (P2).
+figD1_class_dist_pd,dataset,"PlantDoc per-class image counts, official vs cleaned splits."
+figD2_class_dist_pw,dataset,"PlantWild v1 per-class image counts, official vs cleaned splits."
+figD3_small_image_shortcut,dataset,Share of small images per class; low resolution concentrates in disease classes (a resolution shortcut).
+figD4_threshold_sensitivity,dataset,"Test-to-train leak rate across duplicate-detection settings (strict hash/embedding only, plus ORB inlier thresholds)."
+figD5_protocols,dataset,Split composition of each evaluation protocol (log scale). P3 shows fold 0; other folds are equal in size.
+figD6_expert_vs_conflict,dataset,"Expert v1→v2 decisions on the 58 shared disease classes, split by our label-conflict flag."
+figD7_leak_twins,dataset,Examples of official-test images (top) with near-duplicate twins in the training split (bottom).
+figD8_label_conflicts,dataset,Near-duplicate pairs carrying different class labels (label conflicts).
+figD9_within_train_dups,dataset,Near-duplicate pairs within the training split.
+figD10_cross_dataset_twins,dataset,PlantDoc images (top) with near-duplicates in PlantWild (bottom); labels may differ.

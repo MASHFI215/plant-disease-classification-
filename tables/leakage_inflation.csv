@@ -1,0 +1,7 @@
+dataset,subset,n,teacher_acc,nn1_acc,nn_cos_median
+pd,twin-in-train,11,1.0,1.0,0.976
+pd,twin-free,209,0.7943,0.6603,0.8336
+pd,all official,236,0.7585,0.6314,0.8435
+pw,twin-in-train,241,0.9585,0.9917,0.9527
+pw,twin-free,3229,0.7965,0.7241,0.8333
+pw,all official,3677,0.7813,0.7098,0.8417

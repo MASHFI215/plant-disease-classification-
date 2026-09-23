@@ -1,0 +1,19 @@
+# large data - kept on Kaggle datasets
+*.npy
+*.npz
+*.pt
+*.pth
+*.zip
+archive/
+cache/
+feats/
+ckpt/
+proc/
+# secrets
+kaggle.json
+.env
+# junk
+.ipynb_checkpoints/
+desktop.ini
+Thumbs.db
+__huggingface_repos__.json

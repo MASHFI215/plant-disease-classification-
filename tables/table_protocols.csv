@@ -1,0 +1,8 @@
+dataset,protocol,train,val,test,excluded
+pd,p1_role,2008,332,236,0
+pd,p2_role,1872,312,220,172
+pd,p3_f0_role,1648,275,481,172
+pd,xd_pd2pw_role,1798,306,0,472
+pw,p1_role,13045,1820,3677,0
+pw,p2_role,11508,1647,3438,1949
+pw,xd_pw2pd_role,3727,527,0,14288

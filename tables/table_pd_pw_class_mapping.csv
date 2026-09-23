@@ -1,0 +1,28 @@
+plantdoc,mapped_to,sim_mapped,rank_of_mapped,top1,top2,top3,n_pd_clean,n_pw_clean,organ_shift
+grape leaf black rot,grape black rot,0.711,7,grape leaf spot (0.963),grape downy mildew (0.948),grapevine leafroll disease (0.912),60,207,1
+Tomato leaf late blight,tomato late blight,0.874,5,tomato leaf mold (0.958),tomato early blight (0.949),tomato septoria leaf spot (0.935),99,251,1
+Apple Scab Leaf,apple scab,0.808,3,cherry leaf spot (0.885),apple mosaic virus (0.861),apple scab (0.808),91,267,1
+Apple rust leaf,apple rust,0.805,3,cherry leaf spot (0.894),apple mosaic virus (0.842),apple rust (0.805),87,279,1
+Bell_pepper leaf spot,bell pepper leaf spot,0.946,1,bell pepper leaf spot (0.946),basil downy mildew (0.792),bell pepper leaf (0.759),64,106,0
+Bell_pepper leaf,bell pepper leaf,0.847,1,bell pepper leaf (0.847),bell pepper leaf spot (0.833),basil downy mildew (0.771),61,226,0
+Cherry leaf,cherry leaf,0.903,1,cherry leaf (0.903),cherry leaf spot (0.774),plum leaf (0.767),56,272,0
+Corn Gray leaf spot,corn gray leaf spot,0.992,1,corn gray leaf spot (0.992),corn rust (0.972),corn northern leaf blight (0.957),59,185,0
+Corn leaf blight,corn northern leaf blight,0.993,1,corn northern leaf blight (0.993),corn gray leaf spot (0.991),corn rust (0.967),171,171,0
+Blueberry leaf,blueberry leaf,0.856,1,blueberry leaf (0.856),blueberry rust (0.781),plum leaf (0.685),116,270,0
+Apple leaf,apple leaf,0.906,1,apple leaf (0.906),cherry leaf (0.729),apple scab (0.707),88,416,0
+Peach leaf,peach leaf,0.863,1,peach leaf (0.863),plum leaf (0.661),apple leaf (0.633),107,147,0
+Corn rust leaf,corn rust,0.992,1,corn rust (0.992),corn gray leaf spot (0.971),corn northern leaf blight (0.936),114,222,0
+Potato leaf early blight,potato early blight,0.988,1,potato early blight (0.988),potato late blight (0.961),tomato bacterial leaf spot (0.862),92,163,0
+Potato leaf late blight,potato late blight,0.988,1,potato late blight (0.988),potato early blight (0.970),tomato bacterial leaf spot (0.812),89,198,0
+Squash Powdery mildew leaf,squash powdery mildew,0.988,1,squash powdery mildew (0.988),cucumber powdery mildew (0.903),zucchini yellow mosaic virus (0.848),126,243,0
+Strawberry leaf,strawberry leaf,0.959,1,strawberry leaf (0.959),strawberry leaf scorch (0.874),raspberry leaf (0.691),94,192,0
+Raspberry leaf,raspberry leaf,0.979,1,raspberry leaf (0.979),strawberry leaf (0.647),strawberry leaf scorch (0.575),118,170,0
+Soyabean leaf,soybean leaf,0.925,1,soybean leaf (0.925),bean mosaic virus (0.825),bean leaf (0.802),64,227,0
+Tomato Septoria leaf spot,tomato septoria leaf spot,0.985,1,tomato septoria leaf spot (0.985),tomato bacterial leaf spot (0.981),tomato early blight (0.961),133,166,0
+Tomato Early blight leaf,tomato early blight,0.984,1,tomato early blight (0.984),tomato bacterial leaf spot (0.971),tomato septoria leaf spot (0.967),71,253,0
+Tomato leaf bacterial spot,tomato bacterial leaf spot,0.983,1,tomato bacterial leaf spot (0.983),tomato septoria leaf spot (0.981),tomato early blight (0.969),100,226,0
+Tomato leaf,tomato leaf,0.95,1,tomato leaf (0.950),tomato mosaic virus (0.893),tomato yellow leaf curl virus (0.844),63,211,0
+Tomato leaf mosaic virus,tomato mosaic virus,0.974,1,tomato mosaic virus (0.974),tomato yellow leaf curl virus (0.931),tomato leaf (0.908),53,152,0
+Tomato leaf yellow virus,tomato yellow leaf curl virus,0.986,1,tomato yellow leaf curl virus (0.986),tomato mosaic virus (0.952),tomato leaf (0.857),71,149,0
+Tomato mold leaf,tomato leaf mold,0.985,1,tomato leaf mold (0.985),tomato septoria leaf spot (0.956),tomato early blight (0.944),90,193,0
+grape leaf,grape leaf,0.957,1,grape leaf (0.957),grape downy mildew (0.863),grape leaf spot (0.856),67,190,0
