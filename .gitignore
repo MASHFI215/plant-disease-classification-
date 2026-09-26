@@ -17,3 +17,4 @@ kaggle.json
 desktop.ini
 Thumbs.db
 __huggingface_repos__.json
+*.onnx
